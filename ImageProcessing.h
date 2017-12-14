@@ -1,3 +1,6 @@
+///This is the ImageProcessing header file.
+///This class is responsible for image I/O and processing.
+
 #pragma once
 
 #include <math.h>

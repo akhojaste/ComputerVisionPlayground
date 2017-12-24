@@ -1,4 +1,4 @@
-//////This is the header for ImageProcessing Class
+//////This is the header for ImageDisplay Class
 
 
 #pragma once

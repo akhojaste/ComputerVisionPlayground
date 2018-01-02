@@ -1,3 +1,3 @@
-A simple project that shows how to use Intel Integrated Performance Primitive or Intel IPP. This library leverages the new CPU hardware architecture and is the best version of CPU parralelism. For more infor refer to:
+A simple project that shows how to use Intel Integrated Performance Primitive or Intel IPP. This library leverages the new CPU hardware architecture and is the best version of CPU parralelism. This example project show how much a given image processing filter could be improved with using the IPP library. For more infor refer to:
 https://software.intel.com/en-us/intel-ipp
 

@@ -203,7 +203,7 @@ void ReadAndProcessImage()
 	int iHeight = pImage->GetHeight();
 	int iWidth = pImage->GetWidth();
 
-	//Now lets try and get the fucking pixel data from this stupid Gdiplus
+	
 	//BYTE *pbImageBuffer = new BYTE[iHeight * iWidth * IP_BPP]; 
 	Gdiplus::Bitmap bmp(filename);
 	
